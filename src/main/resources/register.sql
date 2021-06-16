@@ -53,11 +53,11 @@ CREATE TABLE cr_person(
 
 INSERT INTO cr_person(sur_name, given_name, patronymic, date_of_birth,
 passport_seria, passport_number, passport_date, certificate_number, certificate_date)
-	VALUES ('Ермоленко','Андрей','Васильевич','1994-03-19','1234','123456','2015-04-11',null,null);
+	VALUES ('Васильев','Павел','Николаевич','1994-03-19','1234','123456','2015-04-11',null,null);
 
 INSERT INTO cr_person(sur_name, given_name, patronymic, date_of_birth,
 passport_seria, passport_number, passport_date, certificate_number, certificate_date)
-	VALUES ('Ермоленко','Анастасия','Азазиловна','1995-05-08','4321','654321','2016-02-15',null,null);
+	VALUES ('Васильева','Анастасия','Азазиловна','1995-05-08','4321','654321','2016-02-15',null,null);
 
 INSERT INTO cr_person(sur_name, given_name, patronymic, date_of_birth,
 passport_seria, passport_number, passport_date, certificate_number, certificate_date)
