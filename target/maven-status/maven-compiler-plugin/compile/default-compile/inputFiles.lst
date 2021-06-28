@@ -3,3 +3,5 @@ C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\domain\PersonReq
 C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\exception\PersonCheckException.java
 C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\web\CheckPersonServlet.java
 C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\domain\PersonResponse.java
+C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\dao\PoolConnectionBuilder.java
+C:\Users\Andrey\city-register\src\main\java\edu\javacourse\city\dao\ConnectionBuilder.java

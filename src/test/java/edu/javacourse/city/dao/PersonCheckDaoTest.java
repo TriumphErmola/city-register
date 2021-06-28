@@ -25,6 +25,7 @@ public class PersonCheckDaoTest {
         pr.setApartment("121");
 
         PersonCheckDao dao = new PersonCheckDao();
+        dao.setConnectionBuilder(new DirectConnectionBulder());
         PersonResponse ps = dao.checkPerson(pr);
         Assert.assertFalse(ps.isRegistered());
         Assert.assertFalse(ps.isTemporal());
